@@ -1,4 +1,5 @@
 # InfoText Manager
+https://github.com/Kittensx/create_infotext
 
 ## Overview
 The **InfoText Manager** project simplifies the process of managing text files for images in a specified folder. It creates `.txt` files for images that lack them and updates existing `.txt` files with user-defined metadata. The script uses a configuration-driven approach with support for YAML configuration files and virtual environments for dependency management.
